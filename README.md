@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/public/grid-snake.svg" alt="snake" />
 </div>
 
 <div id="user-content-toc">
@@ -19,8 +19,8 @@
 - 🔭 I'm currently working on production ML systems, LLM/RAG pipelines, and telecom analytics at **Omobio (Pvt) Ltd.**
 - 🌱 I'm currently exploring agentic frameworks and scalable data pipeline architectures
 - ☁️ Keen interest in **GenAI, semantic search (FAISS), and cloud-native ML pipelines** on GCP
-- 📝 I write on [Medium](https://medium.com/@ovinduuu) about technical topics, including Spring Boot development
-- 💬 Ask me about **Python, ML/AI engineering, data pipelines, FastAPI, Java/Spring Boot**
+- 📝 I write on [Medium](https://medium.com/@ovinduuu) about technical topics
+- 💬 Ask me about **Python, AI/ML engineering, Data pipelines, Data analytics, Generative AI**
 - 📫 Reach me at **ovinduuu@gmail.com**
 
 <div id="user-content-toc">
