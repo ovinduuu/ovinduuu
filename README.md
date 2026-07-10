@@ -12,7 +12,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Associate Data Scientist | ML & AI Engineer</h2></summary>
+    <summary><h2 style="display: inline-block">Associate Data Scientist | AI/ML Engineer</h2></summary>
   </ul>
 </div>
 
@@ -31,8 +31,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,pandas,sklearn,tensorflow,pytorch,docker,kubernetes,gcp,aws,mysql,postgres,mongodb,git,github,gitlab,linux,vscode,jenkins,kafka,elasticsearch,kibana&perline=13" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,ts,nextjs,sklearn,tensorflow,pytorch,docker,kubernetes,terraform,githubactions,gcp,aws,mysql,postgres,mongodb,git,github,gitlab,linux,vscode,jenkins,kafka,elasticsearch,java,spring&perline=14" />
   </a>
+</p>
+
+<!--Pandas isn't available on skillicons.dev, added separately via shields.io-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 </p>
 
 <div id="user-content-toc">
