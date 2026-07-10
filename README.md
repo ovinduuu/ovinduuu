@@ -16,7 +16,7 @@
   </ul>
 </div>
 
-- 🔭 I'm currently working on production ML systems, LLM/RAG pipelines, and telecom analytics at **Omobio (Pvt) Ltd.**
+- 🔭 I'm currently working on production ML systems, LLM/RAG pipelines, and telecom analytics
 - 🌱 I'm currently exploring agentic frameworks and scalable data pipeline architectures
 - ☁️ Keen interest in **GenAI, semantic search (FAISS), and cloud-native ML pipelines** on GCP
 - 📝 I write on [Medium](https://medium.com/@ovinduuu) about technical topics
