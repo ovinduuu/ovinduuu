@@ -31,13 +31,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,ts,nextjs,sklearn,tensorflow,pytorch,docker,kubernetes,terraform,githubactions,gcp,aws,mysql,postgres,mongodb,git,github,gitlab,linux,vscode,jenkins,kafka,elasticsearch,java,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,php,fastapi,flask,nextjs,anaconda,sklearn,tensorflow,pytorch,opencv,docker,kubernetes,terraform,gcp,aws,redhat,linux,mysql,postgres,mongodb,postman,androidstudio,vscode,jenkins,git,github,gitlab,githubactions,kafka,elasticsearch,java,spring&perline=14" />
   </a>
 </p>
 
-<!--Pandas isn't available on skillicons.dev, added separately via shields.io-->
+<!--These aren't available on skillicons.dev, added separately via shields.io-->
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama" />
 </p>
 
 <div id="user-content-toc">
