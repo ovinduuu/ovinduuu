@@ -12,7 +12,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Associate Data Scientist | AI/ML Engineer</h2></summary>
+    <summary><h2 style="display: inline-block">Data Scientist | AI/ML Engineer | Python Developer</h2></summary>
   </ul>
 </div>
 
